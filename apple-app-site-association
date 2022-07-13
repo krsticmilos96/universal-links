@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "3KL9338JP6.com.miloskrstic.sy",
-				"paths": [ "*"]
+				"appID": "3KL9338JP6.com.rtfkt.cryptokicks.iRL",
+				"paths": [ "/verify/*"]
 			}
 		]
 	}
