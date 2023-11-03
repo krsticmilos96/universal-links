@@ -3,20 +3,12 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "Q522B49XC9.com.gala.music.ios",
-				"paths": [ "/verify/*", "/password-recovery/*" ]
+				"appID": "Y858744CZ6.com.gala.music.ios",
+				"paths": [ "/live-party/*"]
 			},
 			{
-				"appID": "Q522B49XC9.com.rtfkt.cryptokicks-iRL-UAT",
-				"paths": [ "/verify/*", "/password-recovery/*" ]
-			},
-			{
-				"appID": "Q522B49XC9.com.rtfkt.cryptokicks-iRL-QA",
-				"paths": [ "/verify/*", "/password-recovery/*" ]
-			},
-			{
-				"appID": "Q522B49XC9.com.rtfkt.cryptokicks-iRL-DEV",
-				"paths": [ "/verify/*", "/password-recovery/*" ]
+				"appID": "Y858744CZ6.com.gala.music.ios.staging",
+				"paths": [ "/live-party/*"]
 			}
 		]
 	}
